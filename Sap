@@ -1,0 +1,2 @@
+- name: Calculate Fosstars rating
+  uses: SAP/fosstars-rating-core-action@v1.8.0
